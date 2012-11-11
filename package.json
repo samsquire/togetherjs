@@ -1,0 +1,17 @@
+{
+	"name": "together",
+		"description": "Run consecutive callback code as if it was synchronous to avoid nesting.",
+		"keywords": ["callbacks"],		
+		"version": "0.0.1",
+		"main": "lib/together.js",
+		"bugs": {
+			"url" : "http://github.com/samsquire/togetherjs/issues"
+		},
+		"author": { "name" : "Sam Squire",
+			"url" : "http://samsquire.com/"
+		},
+		"repository" :
+		{ "type" : "git"
+			, "url" : "https://github.com/samsquire/togetherjs.git"
+		}
+}
